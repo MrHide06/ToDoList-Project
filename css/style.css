@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  min-width: 250px;
+  background-color: lightblue;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  margin: auto;
+  text-align: center;
+  width: 1%;
+  float: none;
+  cursor: pointer;
+  padding: 12px 8px 12px 40px;
+  font-size: 18px;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  color: black;
+}
+
+.form {
+  padding: 30px 40px;
+  color: black;
+  text-align: center;
+}
+
+input {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  width: 25%;
+  padding: 10px;
+  float: none;
+  font-size: 16px;
+}
+
+.Btn {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
